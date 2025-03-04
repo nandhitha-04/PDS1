@@ -1,0 +1,6 @@
+df_1 contains the raw data from our rawdata.csv
+head is used to display the data like head(10) how many rows to display
+isnull() is used to check for clumns with null values
+we convert frailty from categorical to numerical
+Now we consider fratilty as predictor and Age,weight and Height as independant variable and checking the correlation between them. 
+I am using logistics regression  model to display the correlation.

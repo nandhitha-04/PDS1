@@ -1,0 +1,11 @@
+Gender vs. Math Scores (Boxplot): boxplot depicts the distribution of math scores across genders, including the median, quartiles, and potential outliers.
+
+Lunch Type vs. Math Scores (Barplot): barplot contrasts the average math scores of kids with various lunch options (e.g., standard vs. free/reduced).
+
+Reading versus Writing Scores (Scatterplot): scatterplot depicts the relationship between reading and writing scores, emphasizing any link that exists.
+
+Average Scores by Race/Ethnicity (Barplot): bar chart depicts the average math, reading, and writing scores for each race/ethnicity category.
+
+Test Preparation Course Completion (Countplot): countplot shows how many students completed the test preparation course versus how many did not.
+
+Heatmap of Score Correlation: heatmap depicts the correlation between math, reading, and writing scores, indicating how closely the scores are related to one another.
